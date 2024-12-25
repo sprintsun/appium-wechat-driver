@@ -1,0 +1,8 @@
+node_modules
+build
+*.xcuserstate
+package-lock.json
+
+.history
+.vscode
+.DS_Store
